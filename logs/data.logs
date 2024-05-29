@@ -1,0 +1,6 @@
+INFO: 2024-05-29 09:22:17,027: Data
+INFO: 2024-05-29 09:22:17,029: Data shape (110527, 14)
+INFO: 2024-05-29 09:22:17,057: Percentage of women: 0.653882342398853
+INFO: 2024-05-29 09:22:17,084: Percentage of men: 0.346117657601147
+ERROR: 2024-05-29 09:24:41,665: Data shape is incorrect!
+INFO: 2024-05-29 11:02:40,280: generated new fontManager
